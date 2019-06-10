@@ -1,0 +1,8 @@
+[package]
+name = "RECS Example Project"
+author = "Madison Tries"
+content_root = "src"
+version = "1.0.0"
+
+[dependencies]
+RECS = { git = "https://github.com/AmaranthineCodices/recs/" }
